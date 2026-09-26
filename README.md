@@ -1,4 +1,4 @@
-<h1 align="center">Joel Morillas</h1>
+<h1 align="center">Joel Morillas (Ghxstsec)</h1>
 <h3 align="center">Junior Pentester | Cybersecurity Analyst | Red Team</h3>
 
 <p align="center">
