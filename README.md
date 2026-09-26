@@ -27,7 +27,7 @@ Currently expanding my skill set toward the **CRTP (Certified Red Team Professio
 | Google Cybersecurity Professional Certificate | Coursera | July 2024 |
 | Introduction to Ethical Hacking | Hack4u | — |
 
-**🎯 In progress:** CRTP – Certified Red Team Professional (Pentester Academy)
+**🎯 In progress:** CRTP – Certified Red Team Professional (Altered Security)
 
 ---
 
