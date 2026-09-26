@@ -10,7 +10,7 @@
 
 ### 🎯 About Me
 
-Cybersecurity analyst and Junior Pentester with a **Red Team** focus. Hands-on experience through CTFs and advanced labs, including **Active Directory** penetration testing, **web application** vulnerability exploitation, and **buffer overflow** exploitation. I develop my own buffer overflow exploits, published on this profile.
+Cybersecurity analyst and Junior Pentester with a **Red Team** focus. Hands-on experience through CTFs and advanced labs, including **Active Directory** penetration testing, **web application** vulnerability exploitation, **Security research** and **exploit development**.
 
 Currently expanding my skill set toward the **CRTP (Certified Red Team Professional)**, alongside consolidating my **English proficiency (C2 level)**.
 
