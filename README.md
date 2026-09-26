@@ -39,7 +39,7 @@ Currently expanding my skill set toward the **CRTP (Certified Red Team Professio
 - Community contributions through Write-Ups
 
 **TryHackMe**
-- **Legend** rank · Top 1% Global (#9683)
+- **Legend** rank · Top 1% Global
 - 140+ machines completed · Diamond League
 
 ---
