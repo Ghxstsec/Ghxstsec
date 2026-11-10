@@ -74,11 +74,11 @@ Vocational Degree (Grado Medio) in SMIR — path redirected toward professional 
 
 ---
 
+<div align="center">
 ### GitHub stats
 ![GitHub Stats](https://github-stats-xi-six.vercel.app/api/stats?user=Ghxstsec&theme=dark)
-
 ![Top Repositories](https://github-stats-xi-six.vercel.app/api/top-repos?user=Ghxstsec&theme=dark)
-
+</div>
 ---
 
 <div align="center">
