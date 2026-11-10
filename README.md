@@ -72,14 +72,13 @@ Hardening and least-privilege on local servers · secure LAN/WLAN (WPA3, VLANs) 
 
 Vocational Degree (Grado Medio) in SMIR — path redirected toward professional cybersecurity certifications
 
----
-
 <div align="center">
-### GitHub stats
-![GitHub Stats](https://github-stats-xi-six.vercel.app/api/stats?user=Ghxstsec&theme=dark)
-![Top Repositories](https://github-stats-xi-six.vercel.app/api/top-repos?user=Ghxstsec&theme=dark)
+
+<img src="https://github-stats-xi-six.vercel.app/api/stats?user=Ghxstsec&theme=dark" alt="GitHub Stats" />
+
+<img src="https://github-stats-xi-six.vercel.app/api/top-repos?user=Ghxstsec&theme=dark" alt="Top Repositories" />
+
 </div>
----
 
 <div align="center">
 
